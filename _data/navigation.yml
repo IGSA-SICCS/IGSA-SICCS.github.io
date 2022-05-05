@@ -1,0 +1,14 @@
+# Site navigation links
+- title: Who We Are
+  url: /whoweare/
+
+
+- title: Outreach
+  url: /outreach/
+  excerpt:
+  image:
+
+- title: Contact
+  url: /contact/
+  excerpt:
+  image:
