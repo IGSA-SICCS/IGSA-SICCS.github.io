@@ -2,6 +2,11 @@
 - title: Who We Are
   url: /whoweare/
 
+- title: Workshops
+  url: /workshops/
+  excerpt:
+  image:
+
 
 - title: Outreach
   url: /outreach/
